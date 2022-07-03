@@ -111,7 +111,7 @@ double raiz= Math.sqrt(num);
           JOptionPane.showMessageDialog(null,
 "El resultado es: "+ raiz);
       }
-      else if(tipoOperacion.equals("6")){
+      else if(tipoOperacion.equals("7")){
           break;
       }
       else {
